@@ -1,8 +1,8 @@
 # ubuntu16.04-env
-A docker image for ubuntu16.04 environment and corresponding tools
+A docker image for ubuntu20.04 environment and corresponding tools
 
 
-## Use the container 
+## Use the container
 
 ## Manually commands
 
